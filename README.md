@@ -24,7 +24,7 @@ Colaboré en el desarrollo de un motor de sentimientos híbrido (SVM + Pesos Sem
 
 ### 📈 Mi Actividad Técnica
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzapatasal&show_icons=true&theme=vivid" alt="Estadísticas de Diego" />
+<img src="https://github-readme-stats.vercel.app/api?username=dzapatasal&show_icons=true&hide_rank=true" alt="Estadísticas de Diego" />
 </p>
 
 ---
