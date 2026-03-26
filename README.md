@@ -23,7 +23,7 @@ He dedicado más de 240 horas de estudio técnico intensivo a través del progra
 #### 1. 🐎 EquineLead – Motor de Crecimiento Basado en Datos (MVP)
 Sistema inteligente para la industria ecuestre que califica leads mediante análisis de sentimientos.
 - **Mi rol:** Lideré la implementación del motor de **Machine Learning (Python/FastAPI)**, integrándolo en una arquitectura B2B/B2C junto con servicios en **.NET 8.0** y **Rust**.
-- 🔗 [Explorar Explorar el Repositorio](https://github.com/dzapatasal/-S02-26-Equipo-48--EquineLead)
+- 🔗 [Explorar el Repositorio](https://github.com/dzapatasal/-S02-26-Equipo-48--EquineLead)
 
 #### 2. 🧠 Sentiment API G68 – Sistema Híbrido de NLP
 Clasificador de texto diseñado para maximizar la fiabilidad mediante la lógica de "Veto Crítico".
